@@ -24,7 +24,7 @@ class TodosController extends Controller {
      * @return Response
      */
     public function store() {
-        $todo = Todo::create(Requ   est::all());
+        $todo = Todo::create(Request::all());
         return $todo;
     }
 
