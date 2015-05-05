@@ -21,3 +21,6 @@ Route::controllers([
 ]);
 
 Route::resource('api/todos','TodosController');
+
+//Angular client for REST API
+Route::get('todoapp','TodoAppController@index');

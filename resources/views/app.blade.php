@@ -36,6 +36,10 @@
 					<li><a href="{{ url('/') }}">Home</a></li>
 				</ul>
 
+                <ul class="nav navbar-nav">
+                    <li><a href="{{ url('/todoapp') }}">todoapp</a></li>
+                </ul>
+
 				<ul class="nav navbar-nav navbar-right">
 					@if (Auth::guest())
 						<li><a href="{{ url('/auth/login') }}">Login</a></li>
@@ -58,5 +62,9 @@
 	<!-- Scripts -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    <!--AngularJS-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.min.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>
