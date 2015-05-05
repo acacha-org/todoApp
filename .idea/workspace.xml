@@ -89,8 +89,8 @@
       <file leaf-file-name="TodosController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TodosController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5027125" vertical-offset="190" max-vertical-offset="1116">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.5768535" vertical-offset="383" max-vertical-offset="1296">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding>
                 <element signature="e#39#75#0#PHP" expanded="true" />
               </folding>
@@ -842,8 +842,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TodosController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5027125" vertical-offset="190" max-vertical-offset="1116">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.5768535" vertical-offset="383" max-vertical-offset="1296">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding>
             <element signature="e#39#75#0#PHP" expanded="true" />
           </folding>

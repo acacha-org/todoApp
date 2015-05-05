@@ -38,7 +38,17 @@ class TodosController extends Controller {
         $todo = Todo::find($id);
         $todo->done = Request::input('done');
         $todo->save();
+        return $todo;
+    }
 
+    /**
+    *
+    *
+    * @param  int  $id
+    * @return Response
+    */
+    public function show($id) {
+        $todo = Todo::find($id);
         return $todo;
     }
 
